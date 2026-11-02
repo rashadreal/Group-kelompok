@@ -1,0 +1,6 @@
+{
+  "name": "Kalimantan Fire & Air Watch (Siaga Karhutla)",
+  "description": "Real-time forest & peatland fire detection, prevention guides, and air quality (ISPU/PM2.5) monitoring for Kalimantan sourced from BMKG, KLHK SiPongi, and NASA FIRMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
